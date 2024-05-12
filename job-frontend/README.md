@@ -1,21 +1,4 @@
-# Job-Scheduler
-
-Project is not using any env files as every url values are hard coded.
-
-# Golang + Echo (Backend)
-
-Runs on port 8080
-
-### Initialize a backend end part of the project locally
-
-1. Navigate to a job-backend path:
-   - execute `cd job-backend`
-2. `go run main.go` and play with the local dev environment.
-3. `go build`to create a build.
-
-# React + Vite (Frontend)
-
-Runs on port 5173
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
